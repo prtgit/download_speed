@@ -1,7 +1,7 @@
 var speedTest = require('speedtest-net');
 var http = require("http");
 var qs = require("querystring");
-var port = 9000;
+var port = 3000;
 var test = speedTest({maxTime: 5000});
 
 var server = http.createServer(function (req, resp){

@@ -1,0 +1,15 @@
+{
+  "name": "speedtest",
+  "version": "1.0.0",
+  "description": "download speed test",
+  "main": "speedtest.js",
+  "dependencies": {
+    "speedtest-net": "^1.4.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Prashant Tanksali",
+  "license": "ISC"
+}
